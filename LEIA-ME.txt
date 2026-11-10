@@ -1,0 +1,16 @@
+O SEU GESSEIRO — PRIMEIRA VERSÃO (PWA)
+Arquivos:
+- index.html: aplicativo
+- manifest.webmanifest e sw.js: suporte à instalação e cache offline
+- icon-192.png / icon-512.png: ícones
+
+Como testar:
+1. Abra index.html em um navegador para testar os cálculos e telas.
+2. Para instalar como aplicativo no Android e habilitar o modo offline, publique a pasta inteira em um endereço HTTPS.
+3. No Chrome Android, abra o endereço e escolha "Instalar app" ou "Adicionar à tela inicial".
+
+Observações:
+- Os dados ficam armazenados localmente no navegador/aparelho. Limpar dados do navegador pode apagá-los.
+- "Gerar PDF / Imprimir" abre a impressão do navegador; escolha "Salvar como PDF".
+- Separação de material/mão de obra é uma estimativa configurável por percentual na aba Preços.
+- Esta entrega é uma PWA funcional inicial, não um APK nativo assinado.
